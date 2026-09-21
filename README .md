@@ -10,7 +10,7 @@ The application uses two interactive, evidence-based activities to demonstrate h
 
 ## Live application
 
-**https://&lt;your-username&gt;.github.io/&lt;your-repo-name&gt;/**
+**[https://&lt;your-username&gt;.github.io/&lt;your-repo-name&gt;/](https://khadijalseiari.github.io/adphc-glucose-experience/)**
 
 *(Replace the placeholders once GitHub Pages is enabled.)*
 
